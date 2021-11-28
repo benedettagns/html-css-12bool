@@ -1,0 +1,21 @@
+.bg {
+    border: 1px solid white;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;   
+    line-height: 50px;
+}
+
+.padding{
+    padding:10px;
+}
+  
+.green{
+    background-color: green;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid cornflowerblue;
+}
+  
